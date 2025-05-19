@@ -29,6 +29,13 @@ ________________________________________________________________________________
 Kostoglou, Kyriaki, Ronald Schondorf, and Georgios D. Mitsis. "Modeling of multiple-input, time-varying systems with recursively estimated basis expansions." Signal Processing 155 (2019): 287-300.
 
 
+For the Laguerre Volterra models please refer to the following work:
+
+Marmarelis, Vasilis Z. Nonlinear dynamic modeling of physiological systems. John Wiley & Sons, 2004.
+
+Mitsis, G. D., Poulin, M. J., Robbins, P. A., & Marmarelis, V. Z. (2004). Nonlinear modeling of the dynamic effects of arterial pressure and CO/sub 2/variations on cerebral blood flow in healthy humans. IEEE Transactions on Biomedical Engineering, 51(11), 1932-1943.
+
+Mitsis, G. D., Zhang, R., Levine, B. D., & Marmarelis, V. Z. (2006). Cerebral hemodynamics during orthostatic stress assessed by nonlinear modeling. Journal of Applied Physiology, 101(1), 354-366.
 ________________________________________________________________________________________________________________________________________________________________________________
 
 
