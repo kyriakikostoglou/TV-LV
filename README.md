@@ -29,7 +29,7 @@ ________________________________________________________________________________
 Kostoglou, Kyriaki, Ronald Schondorf, and Georgios D. Mitsis. "Modeling of multiple-input, time-varying systems with recursively estimated basis expansions." Signal Processing 155 (2019): 287-300.
 
 
-# For the Laguerre Volterra models please refer to the following work:
+# For the Laguerre Volterra models refer to the following work:
 
 Marmarelis, Vasilis Z. Nonlinear dynamic modeling of physiological systems. John Wiley & Sons, 2004.
 
